@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "053bf83c73aff78622319d130af5502b",
+    "content-hash": "e27d7acbcca1056c6b18b9a7f9998841",
     "packages": [
         {
             "name": "ghostwriter/case-converter",
@@ -379,16 +379,16 @@
         },
         {
             "name": "ghostwriter/filesystem",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ghostwriter/filesystem.git",
-                "reference": "2db142dd3aca57573e5a481bfa5086bbc718847e"
+                "reference": "48779b1db050cdeb3c1d9ff9752f75acd1318398"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ghostwriter/filesystem/zipball/2db142dd3aca57573e5a481bfa5086bbc718847e",
-                "reference": "2db142dd3aca57573e5a481bfa5086bbc718847e",
+                "url": "https://api.github.com/repos/ghostwriter/filesystem/zipball/48779b1db050cdeb3c1d9ff9752f75acd1318398",
+                "reference": "48779b1db050cdeb3c1d9ff9752f75acd1318398",
                 "shasum": ""
             },
             "require": {
@@ -435,7 +435,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-10-08T19:28:13+00:00"
+            "time": "2024-10-10T16:28:42+00:00"
         },
         {
             "name": "ghostwriter/json",
